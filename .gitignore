@@ -23,6 +23,8 @@ wheels/
 pip-wheel-metadata/
 share/python-wheels/
 *.egg-info/
+# .DS_Store
+.DS_Store
 .installed.cfg
 *.egg
 MANIFEST
