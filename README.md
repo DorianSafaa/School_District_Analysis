@@ -27,6 +27,12 @@ To fix this we recalculated these percentages by subtracting the number of 9th-g
 ![after per_school_summary 2](https://user-images.githubusercontent.com/66279829/157001915-d1d11357-7874-4a5d-ae5b-ae987cfc85f2.PNG)
 
 •	The math and reading scores by grades were mostly affected in Thomas High school for the 9th grade where it appears nan in the data frame.
+### Math average scores for Thomas High School
+![after math_scores](https://user-images.githubusercontent.com/66279829/157002613-696152a1-d1b0-4ca6-be1f-d8fe6ee53167.PNG)
+
+### Reading average scores for Thomas High School
+![after reading_scores](https://user-images.githubusercontent.com/66279829/157002640-94fb72c4-1da7-4463-a998-6225cd95fb6d.PNG)
+
 •	For the size, type, and spending data per schools’ data frames, the changes in the scores of math and reading test for the 9th grades in Thomas High School did not affect the scores in these groups. 
 
 ## Summary
